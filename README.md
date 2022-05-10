@@ -1,2 +1,2 @@
 # College
-my college repository
+My college repository
