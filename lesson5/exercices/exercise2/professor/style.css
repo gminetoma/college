@@ -1,0 +1,15 @@
+.image {
+  background: url("husky.jpg") no-repeat;
+  background-size: contain;
+  width: 400px;
+  height: 400px;
+  display: block;
+}
+
+.image:hover {
+  background-position: 0px 50px;
+}
+
+.image:active {
+  background-position: 50px 50px;
+}

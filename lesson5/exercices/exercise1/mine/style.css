@@ -1,0 +1,43 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+footer {
+  margin-top: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.square {
+  width: 10em;
+  height: 10em;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#square1 {
+  background-color: aliceblue;
+}
+
+#square2 {
+  background-color: aqua;
+}
+
+#square3 {
+  background-color: bisque;
+}
+
+#square4 {
+  background-color: blueviolet;
+}

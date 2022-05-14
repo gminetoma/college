@@ -1,0 +1,25 @@
+.square {
+  border: 3px solid black;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  background-color: brown;
+  position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.square2 {
+  right: 0px;
+  background-color: darkgrey;
+}
+
+.square3 {
+  bottom: 0px;
+  background-color: azure;
+}
+
+.square4 {
+  bottom: 0px;
+  right: 0px;
+  background-color: cadetblue;
+}

@@ -1,0 +1,11 @@
+.data-button {
+  background-color: blue;
+}
+
+.data-button--hover:hover {
+  background-color: green;
+}
+
+.data-button--red {
+  background-color: red;
+}
