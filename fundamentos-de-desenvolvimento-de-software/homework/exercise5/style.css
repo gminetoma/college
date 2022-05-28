@@ -1,0 +1,21 @@
+/* Folha de estilo */
+
+.artigo__paragrafo {
+  /* Trocando a cor do paragrafo */
+  color: rgb(90, 230, 60);
+}
+
+.artigo__destacado {
+  /* Aumentando o tamanho da letra */
+  font-size: x-large;
+}
+
+/* Fonte destacada */
+
+.artigo__destacado--vermelho {
+  color: red;
+}
+
+.artigo__destacado--azul {
+  color: blue;
+}
